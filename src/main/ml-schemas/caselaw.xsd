@@ -22,7 +22,7 @@
 		<xs:element ref="summaryOfCite" minOccurs="0"/>
 		<xs:element ref="number" minOccurs="0"/>
 		<xs:element ref="cite" minOccurs="0"/>
-		<xs:element ref="caseNumber" minOccurs="0" maxOccurs="unbounded"/>
+		<xs:element ref="caseNumber" minOccurs="0"/>
 		<xs:element ref="jurisdiction" minOccurs="0"/>
 		<xs:element ref="parser"/>
 		<xs:element ref="hash"/>
